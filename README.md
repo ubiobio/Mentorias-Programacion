@@ -2,4 +2,4 @@
 
 _Repositorio de las tutorías para estudiantes PACE en la Universidad del Bíobío_
 
-Organizadas y realizadas por [**@CometArao**]
+Organizadas y realizadas por [@CometArao]
