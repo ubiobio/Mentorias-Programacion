@@ -1,6 +1,6 @@
-# Tutorías Estructuras de Datos
+# Mentorías Estructuras de Datos
 
-_Repositorio de las clases de ayudantia en la universidad_
+_Repositorio de las mentorías de EDD; contenidos primarios y adicionales para apoyar tu estudio_
 
 - [Semana 1 - Repaso de conceptos básicos y diagnóstico](./EDD%20Semana%201%20-%20Diagnóstico/)
 - [Semana 2 - Intro. al análisis de algoritmos y Arreglos](./EDD%20Semana%202%20-%20Arrays%201//)
@@ -19,3 +19,5 @@ _Repositorio de las clases de ayudantia en la universidad_
 - [Semana 15 - Tablas Hash 1]
 - [Semana 16 - Tablas Hash 2]
 - [Semana 17 - Preparación Certamen 2]
+
+Organizadas y realizadas por [@CometArao](https://github.com/CometArao)
