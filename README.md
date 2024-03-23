@@ -1,10 +1,10 @@
 # Mentorías 2024-1 / 2024-2 UBB
 
-_Repositorio de las mentorías para estudiantes PACE en la Universidad del Bíobío sede Concepción y sedes Chillán_
+_Repositorio *temporal* de variadas mentorías en la Universidad del Bío-Bío_
 
 Las mentorías son enfocadas principalmente para las carreras de Ingeniería Civil en Informática [ICINF] e Ingeniería de Ejecución en Computación e Informática [IECI] en sus primeros años, sin embargo se pueden apoyar otras carreras que compartan contenidos de programación similares.
 
-## ¿Cuáles ramos tendrán mentorías?
+## ¿Cuáles ramos tendrán mentorías/rutas de aprendizaje?
 
 - [Introducción a la Programación](https://github.com/CometArao/ClasesUBB2024/tree/main/Introduccion%20a%20la%20Programacion)
 - [Estructuras Discretas para Cs. de la Computación](https://github.com/CometArao/ClasesUBB2024/tree/main/Estructuras%20Discretas%20para%20Cs.%20de%20la%20Computaci%C3%B3n)
@@ -13,4 +13,4 @@ Las mentorías son enfocadas principalmente para las carreras de Ingeniería Civ
 - [Modelamientos de Procesos e Información](https://github.com/CometArao/ClasesUBB2024/tree/main/Modelamientos%20de%20Procesos%20e%20Informacion)
 - [Bases de Datos](https://github.com/CometArao/ClasesUBB2024/tree/main/Base%20de%20Datos)
 
-Organizadas y realizadas por [@CometArao](https://github.com/CometArao)
+Organizadas y realizadas por [@Thitroy](https://github.com/Thitroy) y [@CometArao](https://github.com/CometArao)
