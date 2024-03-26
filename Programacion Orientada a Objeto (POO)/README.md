@@ -21,4 +21,10 @@ _Repositorio de las mentorías de POO; contenidos primarios y adicionales para a
 - [Semana 17 - Tablas Hash 2]
 - [Semana 18 - Preparación Certamen 2]
 
-Organizadas y realizadas por [@CometArao](https://github.com/CometArao)
+## Links de apoyo
+
+- [Roadmaps](https://roadmap.sh/) -> roadmap.sh es un esfuerzo de la comunidad para crear hojas de ruta, guías y otros contenidos educativos que ayuden a los desarrolladores a coger el camino y orientar sus aprendizajes.
+- [Roadmap | Todocode] -> Roadmap de Java creado por Todocode, desde lo básico de Java hasta especializaciones en microservicios y Springboot.
+- [Repositorio ICINF / POO] -> Cápsulas grabadas y documentos para ejercitar.
+
+Organizadas y realizadas por [@Thitroy](https://github.com/Thitroy) y [@CometArao](https://github.com/CometArao)
